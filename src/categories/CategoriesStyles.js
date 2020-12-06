@@ -15,6 +15,7 @@ const StyledCategory = styled.span`
     :hover {
         color: black;
     }
+    transition: color 0.5s;
 `;
 
 const Styles = {

@@ -25,6 +25,7 @@ const StyledArrow = styled.div`
     :hover {
         color: black;
     }
+    transition: color 0.5s;
 `;
 
 const StyledLeftArrow = styled(StyledArrow)`

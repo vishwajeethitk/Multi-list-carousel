@@ -1,6 +1,7 @@
 import { useState } from 'react';
 import Styled from "./HomeStyles";
 import Categories from "../categories/Categories";
+import Products from '../products/Products';
 
 const Home = () => {
     const [activeCategory, setActiveCategory] = useState(0);
@@ -10,7 +11,9 @@ const Home = () => {
                 activeCategory={activeCategory} 
                 setActiveCategory={setActiveCategory}
             />
-            
+            <Products
+                activeCategoryIndex={activeCategory}
+            />
         </Styled.Container>
     );
 }

@@ -1,6 +1,7 @@
 import Styled from "./CategoriesStyles";
+import products from "../productsInfo/productsInfo.json";
 
-const categoriesList = ["Shoes", "Accesories", "Watches", "Bags"];
+const categoriesList = Object.keys(products);
 
 const Categories = ({activeCategory, setActiveCategory}) => {
     const categoryClickHandler = (index) => {

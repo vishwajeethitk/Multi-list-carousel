@@ -1,0 +1,145 @@
+{
+    "Shoes": [
+        {
+            "imgUrl": "images/shoes/boots.jpg",
+            "itemName": "Shoe1",
+            "itemPrice": "$1231"
+        },
+        {
+            "imgUrl": "images/shoes/oxfords.jpg",
+            "itemName": "Shoe2",
+            "itemPrice": "$1232"
+        },
+        {
+            "imgUrl": "images/shoes/loafers.jpg",
+            "itemName": "Shoe3",
+            "itemPrice": "$1233"
+        },
+        {
+            "imgUrl": "images/shoes/sneakers.jpg",
+            "itemName": "Shoe4",
+            "itemPrice": "$1234"
+        },
+        {
+            "imgUrl": "images/shoes/boots-1.jpg",
+            "itemName": "Shoe5",
+            "itemPrice": "$1235"
+        },
+        {
+            "imgUrl": "images/shoes/oxfords-1.jpg",
+            "itemName": "Shoe6",
+            "itemPrice": "$1236"
+        },
+        {
+            "imgUrl": "images/shoes/loafers-1.jpg",
+            "itemName": "Shoe7",
+            "itemPrice": "$1237"
+        }
+    ],
+    "Acccesories": [
+        {
+            "imgUrl": "images/accesories/belts.jpg",
+            "itemName": "Accessory1",
+            "itemPrice": "$1231"
+        },
+        {
+            "imgUrl": "images/accesories/hats.jpg",
+            "itemName": "Accessory2",
+            "itemPrice": "$1232"
+        },
+        {
+            "imgUrl": "images/accesories/glasses.jpg",
+            "itemName": "Accessory3",
+            "itemPrice": "$1233"
+        },
+        {
+            "imgUrl": "images/accesories/scarves.jpg",
+            "itemName": "Accessory4",
+            "itemPrice": "$1234"
+        },
+        {
+            "imgUrl": "images/accesories/belts-1.jpg",
+            "itemName": "Accessory5",
+            "itemPrice": "$1235"
+        },
+        {
+            "imgUrl": "images/accesories/hats-1.jpg",
+            "itemName": "Accessory6",
+            "itemPrice": "$1236"
+        },
+        {
+            "imgUrl": "images/accesories/glasses-1.jpg",
+            "itemName": "Accessory7",
+            "itemPrice": "$1237"
+        }
+    ],
+    "Watches": [
+        {
+            "imgUrl": "images/watches/casual.jpg",
+            "itemName": "Watch1",
+            "itemPrice": "$1231"
+        },
+        {
+            "imgUrl": "images/watches/luxury.jpg",
+            "itemName": "Watch2",
+            "itemPrice": "$1232"
+        },
+        {
+            "imgUrl": "images/watches/sport.jpg",
+            "itemName": "Watch3",
+            "itemPrice": "$1233"
+        },
+        {
+            "imgUrl": "images/watches/casual-1.jpg",
+            "itemName": "Watch4",
+            "itemPrice": "$1234"
+        },
+        {
+            "imgUrl": "images/watches/luxury-1.jpg",
+            "itemName": "Watch5",
+            "itemPrice": "$1235"
+        },
+        {
+            "imgUrl": "images/watches/sport-1.jpg",
+            "itemName": "Watch6",
+            "itemPrice": "$1236"
+        }
+    ],
+    "Bags": [
+        {
+            "imgUrl": "images/bags/carry.jpg",
+            "itemName": "Bag1",
+            "itemPrice": "$1231"
+        },
+        {
+            "imgUrl": "images/bags/duffel-bags.jpg",
+            "itemName": "Bag2",
+            "itemPrice": "$1232"
+        },
+        {
+            "imgUrl": "images/bags/laptop.jpg",
+            "itemName": "Bag3",
+            "itemPrice": "$1233"
+        },
+        {
+            "imgUrl": "images/bags/briefcase.jpg",
+            "itemName": "Bag4",
+            "itemPrice": "$1234"
+        },
+        {
+            "imgUrl": "images/bags/carry-1.jpg",
+            "itemName": "Bag5",
+            "itemPrice": "$1235"
+        },
+        {
+            "imgUrl": "images/bags/duffel-bags-1.jpg",
+            "itemName": "Bag6",
+            "itemPrice": "$1236"
+        },
+        {
+            "imgUrl": "images/bags/laptop-1.jpg",
+            "itemName": "Bag7",
+            "itemPrice": "$1237"
+        }
+    ]
+}

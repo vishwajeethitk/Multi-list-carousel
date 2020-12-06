@@ -1,8 +1,0 @@
-fileignoreconfig:
-- filename: static/js/2.fc46a832.chunk.js.map
-  checksum: cf9fccd65a21733d163d23aed523699deb68173e9cde71812f30e6a0cfbf80fa
-  ignore_detectors: []
-- filename: static/js/2.fc46a832.chunk.js
-  checksum: 09550cad4e52762de6dde1c41fe5402738e32621bcf0542568a7a5dfe3b1b22d
-  ignore_detectors: []
-scopeconfig: []
